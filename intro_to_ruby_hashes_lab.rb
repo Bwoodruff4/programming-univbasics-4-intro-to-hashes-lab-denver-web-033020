@@ -28,7 +28,7 @@ def my_hash_creator(key, value)
   key1=key
   value1=value
   hash={
-    key1: value
+    key value
   }
   return hash
 end
