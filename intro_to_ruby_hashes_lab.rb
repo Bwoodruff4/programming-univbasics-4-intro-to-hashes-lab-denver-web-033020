@@ -12,7 +12,7 @@ end
 
 def pioneer
   hash={
-    name: 'Grace Hopper'
+    :name => 'Grace Hopper'
   }
   return hash
 end
