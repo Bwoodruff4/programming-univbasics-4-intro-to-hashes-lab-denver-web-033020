@@ -19,7 +19,7 @@ end
 
 def id_generator
   hash={
-    id: 1
+    :id  1
   }
   return hash
 end
