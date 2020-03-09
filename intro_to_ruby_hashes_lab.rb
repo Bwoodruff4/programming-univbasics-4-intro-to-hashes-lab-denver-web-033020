@@ -5,8 +5,9 @@ end
 
 def my_hash
   hash={
-    name: 
+    name: "Name"
   }
+  return hash
 end
 
 def pioneer
